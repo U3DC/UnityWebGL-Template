@@ -23,18 +23,6 @@ in the bottom right.
 
 See [Unity docs](https://docs.unity3d.com/Manual/webgl-templates.html) on how to customize WebGL Templates.
 
-## Instructions 2019
-
-Download and add in [this unity package](https://github.com/greggman/better-unity-webgl-template/releases/tag/v0.0.3)
-into your project. Then pick `Edit->Project Settings->Player`, in the WebGL tab
-under *Resolution and Presentation* pick "BetterTemplate".
-
-<img src="https://user-images.githubusercontent.com/234804/90982204-91b04d80-e5a0-11ea-8b89-68abd9bd77d9.png" width="358">
-
-Change `Assets/WebGLTemplates/BetterTemplate/logo.png` to whatever you want.
-
-See [Unity docs](https://docs.unity3d.com/Manual/webgl-templates.html) on how to customize WebGL Templates.
-
 ## Changelist
 
 *   0.1.0
