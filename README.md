@@ -29,7 +29,7 @@ Download and add in [this unity package](https://github.com/greggman/better-unit
 into your project. Then pick `Edit->Project Settings->Player`, in the WebGL tab
 under *Resolution and Presentation* pick "BetterTemplate".
 
-<img src="https://i.stack.imgur.com/r5Jns.png" width="358">
+<img src="https://user-images.githubusercontent.com/234804/90982204-91b04d80-e5a0-11ea-8b89-68abd9bd77d9.png" width="358">
 
 Change `Assets/WebGLTemplates/BetterTemplate/logo.png` to whatever you want.
 
